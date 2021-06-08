@@ -1,7 +1,10 @@
 # Weather_Updates_on_terminal
-#GOAL:
+
+# GOAL:
+
 The objective of the project is that it shows the weather updates of any city.
-#REQUIREMENTS:
+
+# REQUIREMENTS:
 ● Two libraries should be installed.
 ○ Open SSL library (sudo apt-get install libssl–dev)
 ○ JSON library (sudo apt install libjson-c-dev)
